@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.biscuitkid.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_recent"
+        android:title="recent"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_popular"
+        android:title="popular"
+        app:showAsAction="never" />
+</menu>
